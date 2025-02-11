@@ -50,4 +50,4 @@ Else
 
 
 
-1 Bitcoin is now worth $24,000. In the code editor on line 14, update the bitcoin_to_usd variable value to 24000 and see if your Python program recognises that your investment is below the $30,000 threshold.
+1 Bitcoin is now worth $24,000. In the code editor , update the bitcoin_to_usd variable value to 24000 and see if your Python program recognises that your investment is below the $30,000 threshold.
